@@ -11,5 +11,5 @@ Var = Config
 
 
 
-#fk uuh...
+#go to hell...
 #keep spying..
