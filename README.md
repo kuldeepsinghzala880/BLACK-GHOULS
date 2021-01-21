@@ -1,4 +1,3 @@
-# BLACK GHOULS ARMY
 <div dir="ltr" style="text-align: left;" trbidi="on">
 <h3 style="background-color: white; box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 1.25em; line-height: 1.25; margin-bottom: 16px; margin-top: 0px !important;">
 Bʟᴀᴄᴋ━࿇ɢʜᴏᴜʟs━๖ۣۜAℝᴍy</h3>
