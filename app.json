@@ -30,12 +30,12 @@
 
     "ALIVE_NAME": {
       "description": "Fill your Full name or Username like @Karam_0912.",
-      "value": "",
+      "value": "@blackghouls_supportgroup",
       "required": true
     },
     "AUTONAME": {
       "description": "Fill your Name which will show on .autoname cmd nd used in .revert cmd when u use .clone.",
-      "value": "",
+      "value": "ᴛᴇᴀᴍ━࿇Bʟᴀᴄᴋ━࿇ɢʜᴏᴜʟs━",
       "required": false
     },
     "ALIVE_MSG": {
@@ -50,7 +50,7 @@
     },
     "DEFAULT_BIO": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "",
+      "value": "ᴛᴇᴀᴍ━࿇Bʟᴀᴄᴋ━࿇ɢʜᴏᴜʟs━ clan member",
       "required": false
     },
     "PMPERMIT_PIC": {
@@ -65,7 +65,7 @@
     },
     "CUSTOM_PMPERMIT": {
       "description": "Custom middle pm permit text... May skip..doesn't really matter...",
-      "value": "",
+      "value": "https://telegra.ph/file/08bfb808108c79c4759db.png",
       "required": false
     },
     "PM_DATA": {
