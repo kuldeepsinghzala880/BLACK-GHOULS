@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/DARK-COBRA/DARKCOBRA/",
-  "website": "https://github.com/DARK-COBRA/DARKCOBRA/",
-  "success_url": "https://t.me/Dark_cobra_support",
+  "repository": "https://github.com/kuldeepsinghzala880/BLACK-GHOULS",
+  "website": "https://github.com/kuldeepsinghzala880/BLACK-GHOULS",
+  "success_url": "https://t.me/blackghouls_channel",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -24,7 +24,7 @@
     },
     "F_BAN_LOGGER_GROUP": {
       "description": "Put Group id Same As PRIVATE_GROUP_ID.",
-      "value": "",
+      "value": "-1001318682257",
       "required": false
     },
 
