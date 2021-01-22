@@ -1,1 +1,1 @@
-# DarkCobra Assistant
+# BLACKGHOULS Assistant
