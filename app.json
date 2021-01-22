@@ -193,7 +193,7 @@
     },
     "SUDO_USERS": {
       "description": "Put The Id of that person whom u want to give access to use ur bot",
-      "value": "",
+      "value": "-1001323072487",
       "required": false
     }, 
     "TZ": {
