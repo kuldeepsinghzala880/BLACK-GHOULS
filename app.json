@@ -40,7 +40,7 @@
     },
     "ALIVE_MSG": {
       "description": "Set Custom awake Message When entering .awake command.",
-      "value": "",
+      "value": "Bʟᴀᴄᴋ━࿇ɢʜᴏᴜʟs━๖ۣۜAℝᴍy",
       "required": true
     },
     "ALIVE_PHOTTO": {
@@ -60,7 +60,7 @@
     },
     "PM_PERMIT_GROUP_ID": {
       "description": "Put an Group Id Same As PRIVATE_GROUP_ID Required For Pmpermit plugin.",
-      "value": "",
+      "value": "-1001318682257",
       "required": false
     },
     "CUSTOM_PMPERMIT": {
@@ -93,11 +93,11 @@
     },
     "PLUGIN_CHANNEL": {
       "description": "Create a private group add rose  then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
-      "value": "-1001318682257"
+      "value": "-1001200704082"
     },
     "PRIVATE_GROUP_BOT_API_ID": {
       "description": "create a private channel and then type .get_id add that value here for save messages",
-      "value": ""
+      "value": "-1001200704082"
     },
     "PRIVATE_GROUP_ID": {
       "description": "Create a private group add rose bot then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
@@ -115,10 +115,10 @@
     },
     "PM_LOGGR_BOT_API_ID": {
        "description": "for login private messages create a private channel and do .get_id and add that id", 
-       "value": ""
+       "value": "-1001200704082"
     }, 
     "STRING_SESSION": {
-      "description": "Get this value by running https://darkcobra.crazycreatorr.repl.run/ ",
+      "description": "Get this value by running https://repl.it/@ZALAKARAM/BLACKGHOULSARMY#main.py ",
       "value": "",
       "required": true
     },
@@ -128,7 +128,7 @@
       "required": false
     },
     "GIT_REPO_NAME": {
-      "description": "Your repo name Example: hellboi-atul/hellboi-atul, but GITHUB_ACCESS_TOKEN must be setup first.",
+      "description": "Your repo name Example: kuldeepsinghzala880/BLACK-GHOULS, but GITHUB_ACCESS_TOKEN must be setup first.",
       "value": "",
       "required": false
     },
@@ -149,7 +149,7 @@
     },
     "TG_BOT_TOKEN_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the token of your bot. And Don't Forget To Turn of inline Mode on bot settings. Get it.",
-      "value": "",
+      "value": "1507368830:AAGj9wHEspLdQkCHkSBUyN16maiDraXdGCc",
       "required": true
     },
     "CHROME_BIN": {
@@ -164,7 +164,7 @@
     },
     "TG_BOT_USER_NAME_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the username of your bot",
-      "value": "",
+      "value": "@Blackghouls_bot",
       "required": true
     },
     "DOWNLOAD_PFP_URL_CLOCK": {
@@ -188,7 +188,7 @@
     },
     "EMOJI_TO_DISPLAY_IN_HELP": {
       "description": "Set The emojies You Want to Add In Help Command You Can Add Multiple Emojies too!!",
-      "value": "📨",
+      "value": "😈",
       "required": true
     },
     "SUDO_USERS": {
@@ -203,7 +203,7 @@
     },
     "REDIRECTCHANNEL": {
       "description": "Put You Channel Username Reflecting Your Info or Your Tags Etc",
-      "value": "",
+      "value": "-1001200704082",
       "required": false 
     }
   },
