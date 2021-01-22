@@ -1,6 +1,3 @@
-#    TeleBot - UserBot
-#    Copyright (C) 2020 TeleBot
-
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as published by
 #    the Free Software Foundation, either version 3 of the License, or
@@ -15,11 +12,6 @@
 #    along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 import asyncio
-
-from telebot import CMD_HELP
-
-# By @HeisenbergTheDanger, @its_xditya
-
 
 @telebot.on(admin_cmd("superfban ?(.*)"))
 async def _(event):
