@@ -3,7 +3,7 @@ import string
 
 
 # String Finder
-def bg_finder(s, first, last):
+def dc_finder(s, first, last):
     try:
         start = s.index(first) + len(first)
         end = s.index(last, start)
