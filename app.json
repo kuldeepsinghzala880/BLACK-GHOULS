@@ -1,7 +1,7 @@
 {
-  "name": "Bʟᴀᴄᴋ━࿇ɢʜᴏᴜʟs━๖ۣۜAℝᴍy",
-  "description": "The best and most awaited userbot made by @Karam_0912 and ZALA. Made with ❤ For Support Join @blackghouls_supportgroup ",
-  "logo": "https://telegra.ph/file/a255957ef156701eb5d42.jpg ",
+  "name": " "Bʟᴀᴄᴋ━࿇ɢʜᴏᴜʟs━๖ۣۜAℝᴍy"",
+  "description": "The best and most awaited userbot made by hellboi_atul and modified by Jarvis userbot's owner(@Sppidy) Made with ❤ For Support Join @Dark_cobra_support ",
+  "logo": "https://telegra.ph/file/00f47c54ceda3944dc47c.jpg ",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/kuldeepsinghzala880/BLACK-GHOULS",
-  "website": "https://github.com/kuldeepsinghzala880/BLACK-GHOULS",
-  "success_url": "https://t.me/blackghouls_channel",
+  "repository": "https://github.com/DARK-COBRA/DARKCOBRA/",
+  "website": "https://github.com/DARK-COBRA/DARKCOBRA/",
+  "success_url": "https://t.me/Dark_cobra_support",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -29,7 +29,7 @@
     },
 
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @Karam_0912.",
+      "description": "Fill your Full name or Username like @hellboi_atul.",
       "value": "",
       "required": true
     },
@@ -45,7 +45,7 @@
     },
     "ALIVE_PHOTTO": {
       "description": "Let it be what it is(skip)..or you can change the link according to your convince..this link is useful for `.awake` command.",
-      "value": "https://telegra.ph/file/a255957ef156701eb5d42.jpg",
+      "value": "https://telegra.ph/file/0d0fafe17acca1c51b42d.jpg",
       "required": true
     },
     "DEFAULT_BIO": {
@@ -55,7 +55,7 @@
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for pmpermit custom pic.",
-      "value": "https://telegra.ph/file/a255957ef156701eb5d42.jpg",
+      "value": "https://telegra.ph/file/ad8430d78a8e1adb3d8ea.jpg",
       "required": true
     },
     "PM_PERMIT_GROUP_ID": {
@@ -118,7 +118,7 @@
        "value": ""
     }, 
     "STRING_SESSION": {
-      "description": "Get this value by running https://repl.it/@ZALAKARAM/BLACKGHOULSARMY#main.py ",
+      "description": "Get this value by running https://darkcobra.crazycreatorr.repl.run/ ",
       "value": "",
       "required": true
     },
@@ -128,7 +128,7 @@
       "required": false
     },
     "GIT_REPO_NAME": {
-      "description": "Your repo name Example: Karam_0912/Karam-0912, but GITHUB_ACCESS_TOKEN must be setup first.",
+      "description": "Your repo name Example: hellboi-atul/hellboi-atul, but GITHUB_ACCESS_TOKEN must be setup first.",
       "value": "",
       "required": false
     },
@@ -222,6 +222,8 @@
     "url":"https://github.com/amivin/aria2-heroku.git"
   },{
     "url":"https://github.com/heroku/heroku-buildpack-google-chrome"
+  },{
+     "url": "https://github.com/heroku/heroku-buildpack-apt.git"
   },{
     "url":"https://github.com/heroku/heroku-buildpack-chromedriver"
   },{
