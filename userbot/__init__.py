@@ -3,7 +3,7 @@ import os
 import sys
 from telethon.sessions import StringSession
 from telethon import TelegramClient
-from userbot.helper import functions as darkdef
+from userbot.helper import functions
 from var import Var
 from userbot.functions import dcfunction as topfunc
 
