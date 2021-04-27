@@ -24,7 +24,7 @@
     },
     "F_BAN_LOGGER_GROUP": {
       "description": "Put Group id Same As PRIVATE_GROUP_ID.",
-      "value": "-1001318682257",
+      "value": "-1001229061039",
       "required": false
     },
 
@@ -60,7 +60,7 @@
     },
     "PM_PERMIT_GROUP_ID": {
       "description": "Put an Group Id Same As PRIVATE_GROUP_ID Required For Pmpermit plugin.",
-      "value": "-1001318682257",
+      "value": "-1001229061039",
       "required": false
     },
     "CUSTOM_PMPERMIT": {
@@ -93,19 +93,20 @@
     },
     "PLUGIN_CHANNEL": {
       "description": "Create a private group add rose  then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
-      "value": "-1001200704082"
+      "value": "-1001229061039"
     },
     "PRIVATE_GROUP_BOT_API_ID": {
       "description": "create a private channel and then type .get_id add that value here for save messages",
-      "value": "-1001200704082"
-    },
+      "value": "-1001401736758",   
+},
     "PRIVATE_GROUP_ID": {
       "description": "Create a private group add rose bot then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
-      "value": "-1001318682257"
+      "value"-1001229061039"
+ "
    },
     "TAG_LOG": {
       "description": "Create a group where u want ur tags logs will come add rose bot then get id ,set value, if not then leave blank  ",
-      "value": "-1001318682257",
+      "value": "-1001401736758"
       "required" : true
    },
     "OCR_SPACE_API_KEY": {
@@ -115,7 +116,7 @@
     },
     "PM_LOGGR_BOT_API_ID": {
        "description": "for login private messages create a private channel and do .get_id and add that id", 
-       "value": "-1001200704082"
+       "value": "-1001401736758"
     }, 
     "STRING_SESSION": {
       "description": "Get this value by running https://repl.it/@ZALAKARAM/BLACKGHOULSARMY#main.py ",
@@ -144,12 +145,12 @@
     },
     "HEROKU_APP_NAME": {
       "description": "The Value of App Name you filled in right on top.Required for updater to work.",
-      "value": "",
+      "gangsterkimarandi": "",
       "required": false
     },
     "TG_BOT_TOKEN_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the token of your bot. And Don't Forget To Turn of inline Mode on bot settings. Get it.",
-      "value": "1507368830:AAGj9wHEspLdQkCHkSBUyN16maiDraXdGCc",
+      "value": "1772943754:AAE1G6MHIwUhA6HvCug4VUlYQQ0IsIea_PQ",
       "required": true
     },
     "CHROME_BIN": {
@@ -164,7 +165,7 @@
     },
     "TG_BOT_USER_NAME_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the username of your bot",
-      "value": "@Blackghouls_bot",
+      "value": "@gangsterkabaapzalauserbot",
       "required": true
     },
     "DOWNLOAD_PFP_URL_CLOCK": {
