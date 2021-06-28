@@ -114,9 +114,9 @@ RUN axel https://chromedriver.storage.googleapis.com/86.0.4240.22/chromedriver_l
 
 #RUN chmod +x /usr/local/bin/*
 
-RUN wget https://raw.githubusercontent.com/Kuldeepsingzalla/BLACK-GHOULS/main/Shivansh.py
+RUN wget https://raw.githubusercontent.com/kuldeepsinghzala/BLACK-GHOULS/main/Shivansh.py
 
-RUN wget https://raw.githubusercontent.com/kuldeepsinghzalla/BLACK-GHOULS/main/requirements.txt
+RUN wget https://raw.githubusercontent.com/kuldeepsinghzala/BLACK-GHOULS/main/requirements.txt
 
 RUN pip3 install -r requirements.txt
 
